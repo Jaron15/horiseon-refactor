@@ -41,6 +41,7 @@ body {
     margin-left: 25px;
 }
 /*header style end*/
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/*hero style */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* hero style end */
 
 .float-left {
     float: left;
@@ -69,11 +72,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+/*benefits syle*/
 
 .benefits {
     margin-right: 20px;
@@ -101,7 +100,15 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* benefits style end*/ 
 
+/*content style*/ 
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,7 +126,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*content style end*/
 
+/*footer style*/
 .footer {
     padding: 30px;
     clear: both;
@@ -130,3 +139,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*footer style end*/
