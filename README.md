@@ -13,6 +13,12 @@ The purpose of this project was to refactor the Horiseon websites homepage, in o
 * added comments to code to make it more organized 
 * added a favicon and a more descriptive title 
 
+## Usage
+
+The deployed website should look like the following image:
+![image](https://user-images.githubusercontent.com/87290877/128119035-27a6b108-63cc-495b-92b3-0ea55a3b0434.png)
+
+
 ## links 
 
 [Link to code repository](https://github.com/Jaron15/horiseon-refactor.git)
