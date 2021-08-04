@@ -17,3 +17,6 @@ The purpose of this project was to refactor the Horiseon websites homepage, in o
 
 [Link to code repository](https://github.com/Jaron15/horiseon-refactor.git)
 
+[Link to live website](https://jaron15.github.io/horiseon-refactor/)
+
+
